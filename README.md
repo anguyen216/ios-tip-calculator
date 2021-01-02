@@ -1,10 +1,10 @@
-# Pre-work - *tipGalore*
+# Pre-work - *CalculaTip*
 
-**Tip Galore** is a tip calculator application for iOS.
+**CalculaTip** is a tip calculator application for iOS.
 
 Submitted by: **Anh Nguyen**
 
-Time spent: **3** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
